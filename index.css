@@ -1,0 +1,291 @@
+header{
+  background-color: #23364f;
+  height: 80px;
+  margin-top: -34px;  
+}
+
+body{
+    font-family:'Kanit', sans-serif;
+    padding: 0px;
+    margin: 0px;
+    background-color: #2f598f;
+    overflow-x: hidden;
+}
+
+#img-contabilidade{
+    position: relative;
+    bottom: 60px;
+    height: 600px;
+    width: auto;
+    left: 650px;
+}
+
+#texto-nome{
+  position: relative;
+  font-weight: 700;
+  font-size: 35px;
+  top: 14px;
+  left: 20px;
+  color: #d6ab47;
+}
+
+#linha-acima{
+  position: relative;
+  bottom: 30px;
+  background-color:  #d6ab47;
+   height: 4px;
+}
+
+nav a{
+  color: #ffffff;
+  position: relative;
+  left: 540px;
+  font-weight: 400;
+  font-size: 20px;
+  bottom: 54px;
+  margin-right: 100px;
+  transition: color 0.3s ease;
+  text-decoration: none;
+}
+
+nav a:hover{
+  color: #d6ab47;
+}
+
+h1{
+  position: relative;
+  font-size: 45px;
+  width: 600px;
+  font-weight: 600px;
+  left: 40px;
+  bottom:570px;
+  color: #ffffff;
+}
+
+#texto-inicio{
+  position: relative;
+  font-weight: 500px;
+  font-size: 25px;
+  left: 40px;
+  width: 600px;
+  bottom: 610px;
+}
+
+#destaque-inicio{
+  position: relative;
+  bottom: 13px;
+  color: #d6ab47;
+  font-weight: 700;
+}
+
+#missao{
+  position: relative;
+  bottom: 440px;
+  left: 40px;
+  font-size: 35px;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+#texto-missao{
+  position: relative;
+  bottom: 460px;
+  left: 40px;
+  width: 1300px;
+  font-weight: 500;
+  font-size: 23px;
+}
+
+#visao{
+  position: relative;
+  bottom: 410px;
+  left: 40px;
+  font-size: 35px;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+#texto-visao{
+  position: relative;
+  bottom: 430px;
+  left: 40px;
+  width: 1300px;
+  font-weight: 500;
+  font-size: 23px;
+}
+
+#valores{
+  position: relative;
+  bottom: 380px;
+  left: 40px;
+  font-size: 35px;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+#lista-valores{
+  position: relative;
+  bottom: 400px;
+  left: 30px;
+  font-weight: 500;
+  font-size: 23px;
+  margin-bottom: -345px;
+}
+
+footer{
+  background-color: #23364f;
+  height: 80px;
+}
+
+footer p{
+  color: #d6ab47;
+  font-weight: 600;
+  top: 29px;
+  position: relative;
+  text-align: center;
+  margin-top: auto;
+}
+
+
+h1#sobre-nos{
+  font-size: 45px;
+  font-weight: 600;
+  color:  #ffffff;
+  position: relative;
+  bottom: 20px;
+  left: 40px;
+}
+
+#texto-sobre{
+  position: relative;
+  bottom: 40px;
+  font-weight: 500;
+  left: 40px;
+  font-size: 23px;
+}
+
+#escolher{
+  font-size: 35px;
+  font-weight: 600;
+  color:  #ffffff;
+  position: relative;
+  width: 1200;
+  bottom: 10px;
+  left: 40px;
+}
+
+#destaque-escolher{
+  color: #d6ab47;
+}
+
+#lista-escolher{
+  position: relative;
+  bottom: 30px;
+  left: 30px;
+  font-weight: 500;
+  font-size: 23px;
+}
+
+#serviços{
+  font-size: 45px;
+  font-weight: 600;
+  color:  #ffffff;
+  position: relative;
+  bottom: 20px;
+  left: 40px;
+}
+
+#texto-serviços{
+  position: relative;
+  bottom: 40px;
+  font-weight: 500;
+  left: 40px;
+  font-size: 23px;
+}
+
+#principais-serviços{
+  font-size: 35px;
+  font-weight: 600;
+  color: #ffffff;
+  position: relative;
+  bottom: 10px;
+  left: 40px;
+}
+
+#lista-serviços{
+  position: relative;
+  bottom: 30px;
+  left: 30px;
+  font-weight: 500;
+  font-size: 23px;
+}
+
+#texto-final{
+  position: relative;
+  width: 1200px;
+  bottom: 15px;
+  font-weight: 500;
+  left: 40px;
+  font-size: 23px;
+  margin-bottom: 40px;
+}
+
+
+
+
+#contato{
+  font-size: 45px;
+  font-weight: 600;
+  color:  #ffffff;
+  position: relative;
+  bottom: 20px;
+  left: 40px;
+}
+
+#texto-contato{
+  position: relative;
+  bottom: 40px;
+  font-weight: 500;
+  left: 40px;
+  font-size: 23px;
+  width: 1300px;
+}
+
+#informações-contato{
+  font-size: 35px;
+  font-weight: 600;
+  color:  #ffffff;
+  position: relative;
+  bottom: 10px;
+  left: 40px;
+}
+
+#lista-contato{
+  position: relative;
+  bottom: 30px;
+  left: 30px;
+  font-weight: 500;
+  font-size: 23px;
+}
+
+#link-email{
+ text-decoration: none;
+ color: #d6ab47;
+}
+
+#atendimento{
+  font-size: 35px;
+  font-weight: 600;
+  color:  #ffffff;
+  position: relative;
+  bottom: 20px;
+  left: 40px;
+}
+
+#texto-atendimento{
+  position: relative;
+  bottom: 40px;
+  font-weight: 500;
+  left: 40px;
+  font-size: 23px;
+}
